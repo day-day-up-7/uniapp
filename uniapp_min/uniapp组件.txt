@@ -1,0 +1,4 @@
+组件：
+uni-list、uni-popup、uni-section、uni-goods-nav、uni-swipe-action、uni-pagination
+请在uniapp官网安装以上组件
+官网：https://uniapp.dcloud.net.cn/component/uniui/uni-swipe-action.html
