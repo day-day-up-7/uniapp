@@ -1,0 +1,137 @@
+.icon.data-v-300b9974 {
+  display: block;
+  margin: 50rpx auto;
+  width: 300rpx;
+}
+.shopCartInfo.data-v-300b9974 {
+  background-color: rgba(255, 192, 203, 0.3);
+  border-radius: 20rpx;
+  border: 1rpx solid #f2f2f2;
+  margin: 10rpx auto;
+  width: 730rpx;
+  display: flex;
+  flex-direction: column;
+}
+.shopCartInfo .pitchOn.data-v-300b9974 {
+  text-align: center;
+  width: 100rpx;
+  -webkit-transform: scale(0.7);
+          transform: scale(0.7);
+}
+.shopCartInfo .commodity.data-v-300b9974 {
+  display: flex;
+  align-items: center;
+  margin: 10rpx 0rpx;
+  width: 730rpx;
+  height: 200rpx;
+}
+.shopCartInfo .commodity .image.data-v-300b9974 {
+  width: 150rpx;
+}
+.shopCartInfo .commodity .commodityInfo.data-v-300b9974 {
+  margin-left: 10rpx;
+  height: 150rpx;
+}
+.shopCartInfo .commodity .commodityInfo .commodityName.data-v-300b9974 {
+  width: 300rpx;
+  margin-top: 10rpx;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  line-clamp: 3;
+  -webkit-line-clamp: 3;
+  font-size: 25rpx;
+  height: 110rpx;
+}
+.shopCartInfo .commodity .commodityInfo .num.data-v-300b9974 {
+  width: 230rpx;
+  height: 40rpx;
+  display: flex;
+  text-align: center;
+  position: relative;
+}
+.shopCartInfo .commodity .commodityInfo .num .jian.data-v-300b9974 {
+  z-index: 99;
+  left: 0rpx;
+  top: 0rpx;
+  position: absolute;
+  height: 60rpx;
+}
+.shopCartInfo .commodity .commodityInfo .num .jia.data-v-300b9974 {
+  z-index: 99;
+  right: 0rpx;
+  position: absolute;
+  height: 60rpx;
+}
+.shopCartInfo .commodity .commodityInfo .num .input.data-v-300b9974 {
+  text-align: center;
+  width: 230rpx;
+  height: 40rpx;
+  font-size: 30rpx;
+  border-radius: 40rpx;
+  background-color: white;
+}
+.shopCartInfo .commodity .price.data-v-300b9974 {
+  margin-left: auto;
+  margin-right: 10rpx;
+  height: 150rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.shopCartInfo .commodity .price .commodityPrice.data-v-300b9974 {
+  margin-left: auto;
+  display: block;
+  font-size: 25rpx;
+  color: red;
+}
+.shopCartInfo .commodity .price .commodityAllPrice.data-v-300b9974 {
+  display: block;
+  font-size: 40rpx;
+  color: red;
+}
+.bed.data-v-300b9974 {
+  width: 750rpx;
+  height: 100rpx;
+  background-color: white;
+}
+.payment.data-v-300b9974 {
+  position: fixed;
+  z-index: 999;
+  width: 750rpx;
+  height: 100rpx;
+  background-color: white;
+  display: flex;
+  bottom: 0rpx;
+  align-items: center;
+}
+.payment .info.data-v-300b9974 {
+  margin-left: 10rpx;
+}
+.payment .info .length.data-v-300b9974 {
+  font-size: 20rpx;
+  line-height: 40rpx;
+  height: 40rpx;
+  display: block;
+  color: #a8a8a8;
+}
+.payment .info .moeny.data-v-300b9974 {
+  font-size: 20rpx;
+  color: #a8a8a8;
+  line-height: 60rpx;
+  height: 60rpx;
+  display: block;
+}
+.payment .submit.data-v-300b9974 {
+  margin-left: auto;
+  margin-right: 10rpx;
+  text-align: center;
+  line-height: 60rpx;
+  background-color: red;
+  color: white;
+  display: block;
+  width: 200rpx;
+  height: 60rpx;
+  border-radius: 30rpx;
+}
+
