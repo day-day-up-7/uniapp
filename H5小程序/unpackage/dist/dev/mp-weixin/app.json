@@ -1,0 +1,63 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/message/message",
+    "pages/shopCart/shopCart",
+    "pages/mine/mine",
+    "component/carousel/carousel",
+    "component/menuBar/menuBar",
+    "component/productList/productList",
+    "component/navigation/navigation",
+    "component/otherSet/otherSet"
+  ],
+  "subPackages": [
+    {
+      "root": "subPackages",
+      "pages": [
+        "commodityInfo/commodityInfo",
+        "commodityList/commodityList",
+        "searchList/searchList"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/icon/首页.png",
+        "selectedIconPath": "static/icon/首页-fill.png"
+      },
+      {
+        "pagePath": "pages/message/message",
+        "iconPath": "static/icon/信息.png",
+        "selectedIconPath": "static/icon/信息-fill.png"
+      },
+      {
+        "pagePath": "pages/shopCart/shopCart",
+        "iconPath": "static/icon/购物车.png",
+        "selectedIconPath": "static/icon/购物车-fill.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "iconPath": "static/icon/我的.png",
+        "selectedIconPath": "static/icon/我的-fill.png"
+      }
+    ]
+  },
+  "preloadRule": {
+    "pages/index": {
+      "network": "all",
+      "packages": [
+        "subPackages"
+      ]
+    }
+  },
+  "lazyCodeLoading": "requiredComponents",
+  "usingComponents": {}
+}

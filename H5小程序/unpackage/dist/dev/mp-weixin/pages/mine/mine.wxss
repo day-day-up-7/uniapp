@@ -1,0 +1,63 @@
+.navigation.data-v-c75c6482 {
+  background-color: #f2f2f2;
+  margin: 20rpx 0rpx;
+  padding: 40rpx 0rpx;
+  display: flex;
+}
+.navigation .option.data-v-c75c6482 {
+  height: 120rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.navigation .option .image.data-v-c75c6482 {
+  width: 60rpx;
+}
+.navigation .option .name.data-v-c75c6482 {
+  display: block;
+}
+
+.header.data-v-dcbcfe34 {
+  position: relative;
+  height: 350rpx;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.header .backgroundImage.data-v-dcbcfe34 {
+  width: 750rpx;
+}
+.header .user.data-v-dcbcfe34 {
+  z-index: 11;
+  position: absolute;
+  bottom: 30rpx;
+  left: 30rpx;
+  display: flex;
+}
+.header .user .headerImage.data-v-dcbcfe34 {
+  width: 100rpx;
+  border: 1rpx solid white;
+}
+.header .user .userMessage.data-v-dcbcfe34 {
+  display: flex;
+  flex-direction: column;
+}
+.header .user .userMessage .userName.data-v-dcbcfe34 {
+  margin-top: auto;
+  display: block;
+  margin-left: 20rpx;
+  color: white;
+}
+.header .user .userMessage .userAccountNumber.data-v-dcbcfe34 {
+  font-size: 20rpx;
+  display: block;
+  margin-left: 20rpx;
+  color: white;
+}
+.headline.data-v-dcbcfe34 {
+  margin: 20rpx 0rpx 20rpx 40rpx;
+  display: block;
+  font-weight: bold;
+}
+

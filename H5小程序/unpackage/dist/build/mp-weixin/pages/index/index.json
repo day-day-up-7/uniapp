@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "carousel": "/component/carousel/carousel",
+    "menu-bar": "/component/menuBar/menuBar",
+    "product-list": "/component/productList/productList"
+  }
+}

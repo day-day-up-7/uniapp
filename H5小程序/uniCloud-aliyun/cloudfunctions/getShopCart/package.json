@@ -1,0 +1,7 @@
+{
+  "name": "getShopCart",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "getProduct",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

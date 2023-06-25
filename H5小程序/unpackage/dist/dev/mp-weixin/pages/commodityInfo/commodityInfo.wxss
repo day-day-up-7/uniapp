@@ -1,0 +1,92 @@
+.image.data-v-63244a7e {
+  width: 750rpx;
+}
+.priceStyle.data-v-63244a7e {
+  width: 750rpx;
+  height: 120rpx;
+  display: flex;
+  background-color: rgba(255, 192, 203, 0.5);
+  align-items: center;
+}
+.priceStyle .price.data-v-63244a7e {
+  margin: 0rpx 10rpx;
+  height: 80rpx;
+  display: block;
+  color: red;
+  line-height: 80rpx;
+}
+.priceStyle .priceNow.data-v-63244a7e {
+  line-height: 80rpx;
+  padding: 0rpx 20rpx;
+  height: 80rpx;
+  border-radius: 40rpx;
+  display: block;
+  color: white;
+  background-color: red;
+}
+.commodityName.data-v-63244a7e {
+  margin: 30rpx 0rpx 30rpx 10rpx;
+  display: block;
+  font-size: 50rpx;
+}
+.InfoList.data-v-63244a7e {
+  padding-bottom: 150rpx;
+}
+.purchaseInfoList.data-v-63244a7e {
+  display: flex;
+  flex-direction: column;
+  height: 900rpx;
+  width: 750rpx;
+  background-color: white;
+}
+.purchaseInfoList .number.data-v-63244a7e {
+  margin: 20rpx 0rpx;
+  display: flex;
+  justify-content: space-between;
+}
+.purchaseInfoList .number .word.data-v-63244a7e {
+  margin-left: 25rpx;
+}
+.purchaseInfoList .number .num.data-v-63244a7e {
+  margin-right: 25rpx;
+  display: flex;
+}
+.purchaseInfoList .number .num .jian.data-v-63244a7e,
+.purchaseInfoList .number .num .jia.data-v-63244a7e {
+  text-align: center;
+  line-height: 60rpx;
+  border-radius: 50%;
+  width: 60rpx;
+  height: 60rpx;
+  display: block;
+  font-size: 40rpx;
+  background-color: #f2f2f2;
+}
+.purchaseInfoList .number .num .input.data-v-63244a7e {
+  margin: 0rpx 10rpx;
+  text-align: center;
+  width: 200rpx;
+  height: 60rpx;
+  border-radius: 30rpx;
+  background-color: #f2f2f2;
+}
+.purchaseInfoList .addShopCart.data-v-63244a7e {
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  line-height: 80rpx;
+  color: white;
+  border-radius: 40rpx;
+  display: block;
+  background-color: orange;
+  width: 700rpx;
+  height: 80rpx;
+}
+.tabBar.data-v-63244a7e {
+  z-index: 999;
+  width: 750rpx;
+  position: fixed;
+  bottom: 0rpx;
+}
+
